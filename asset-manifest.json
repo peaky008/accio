@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accio/static/css/main.073c9b0a.css",
+    "main.js": "/accio/static/js/main.9f4cd254.js",
+    "static/js/787.d8754c46.chunk.js": "/accio/static/js/787.d8754c46.chunk.js",
+    "index.html": "/accio/index.html",
+    "main.073c9b0a.css.map": "/accio/static/css/main.073c9b0a.css.map",
+    "main.9f4cd254.js.map": "/accio/static/js/main.9f4cd254.js.map",
+    "787.d8754c46.chunk.js.map": "/accio/static/js/787.d8754c46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f4cd254.js"
+  ]
+}
