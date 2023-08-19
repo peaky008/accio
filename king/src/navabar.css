@@ -1,0 +1,9 @@
+.heading{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+}
